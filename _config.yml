@@ -19,6 +19,8 @@ collections:
     output: true
   publications:
     output: true
+  cv:
+    output: true
 
 just_the_docs:
   collections:
@@ -31,3 +33,6 @@ just_the_docs:
     publications:
       name: Publications
       nav_fold: true
+    cv:
+      name: Cv
+      nav_fold:flase
