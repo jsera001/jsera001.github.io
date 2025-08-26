@@ -25,15 +25,15 @@ collections:
 just_the_docs:
   collections:
     education:
-      name: Education 
+      name: education 
       search_exclude: false
       nav_fold: false
     projects:
-      name: Projects
+      name: projects
       nav_fold: true
     publications:
-      name: Publications
+      name: publications
       nav_fold: true
     cv:
-      name: CV
+      name: cv
       nav_fold: false
