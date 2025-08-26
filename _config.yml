@@ -27,6 +27,7 @@ just_the_docs:
     education:
       name: Education
       search_exclude: true
+      nav_fold: false
     projects:
       name: Projects
       nav_fold: true
