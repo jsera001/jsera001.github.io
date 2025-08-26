@@ -35,4 +35,5 @@ just_the_docs:
       name: Publications
       nav_fold: true
     cv:
+      name: CV
       nav_fold: false
