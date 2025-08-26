@@ -13,16 +13,21 @@ color_scheme: dark
 
 
 collections:
-  tests:
+  education:
     output: true
-  tutorials:
+  projects:
+    output: true
+  publications:
     output: true
 
 just_the_docs:
   collections:
-    tests:
-      name: Tests
+    education:
+      name: Education
       search_exclude: true
-    tutorials:
-      name: Tutorials
+    projects:
+      name: Projects
+      nav_fold: true
+    publications:
+      name: Publications
       nav_fold: true
