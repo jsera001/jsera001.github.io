@@ -28,12 +28,16 @@ just_the_docs:
       name: education 
       search_exclude: false
       nav_fold: false
+      nav_link: ture
     projects:
       name: projects
       nav_fold: true
+      nav_link: ture
     publications:
       name: publications
       nav_fold: true
+      nav_link: ture
     cv:
       name: cv
       nav_fold: false
+      nav_link: ture
