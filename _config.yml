@@ -13,31 +13,43 @@ color_scheme: dark
 
 
 collections:
-  education:
-    output: true
+  # education:
+  #   output: true
   projects:
     output: true
   publications:
     output: true
-  cv:
+  patents:
     output: true
+  # cv:
+  #   output: true
 
 just_the_docs:
   collections:
-    education:
-      name: education 
-      search_exclude: false
-      nav_fold: false
-      nav_link: true
+    # education:
+    #   name: education 
+    #   search_exclude: true
+    #   nav_fold: false
+    #   nav_link: true
     projects:
-      name: projects
+      name: Projects_Sample
       nav_fold: true
       nav_link: true
     publications:
-      name: publications
+      name: Publication_Sample
       nav_fold: true
       nav_link: true
-    cv:
-      name: cv
-      nav_fold: false
+    patents:
+      name: Patent_Sample
+      nav_fold: true
       nav_link: true
+    # cv:
+    #   name: cv
+    #   nav_fold: false
+    #   nav_link: true
+
+nav_external_links:
+  - title: Smart Design LAB
+    url: https://www.smartdesignlab.org/home
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
