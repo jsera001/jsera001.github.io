@@ -9,7 +9,7 @@ permalink: /_education/
 <div style="text-align:right;"><br>
 <img src="/assets/images/KAIST_emblem1.gif" alt="KAIST" width="150"><br>        
 <span style="font-size:22px; font-weight:bold;">Korea Advanced Institute of Science and Technology<span><br>
-<span>M.S. Student in Division of Future Vheicle<span><br>
+<span style="font-size:18px">M.S. Student in Division of Future Vheicle<span><br>
 <span>Advisor: Namwoo Kang<span><br>
 <span style="font-size:12px;">2025-Present<span><br>
 <br>
@@ -17,6 +17,6 @@ permalink: /_education/
 
 <img src="/assets/images/CAU_emblem.png" alt="KAIST" width="150"><br>
 <span style="font-size:22px; font-weight:bold;"> Chung-Ang University <span><br>
-<span>B.S. in Mechanical Engineering<span><br>
+<span style="font-size:18px">B.S. in Mechanical Engineering<span><br>
 <span style="font-size:12px;">2019-2025<span><br>
 <div>
