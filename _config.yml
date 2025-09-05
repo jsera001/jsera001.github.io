@@ -4,7 +4,7 @@ theme: just-the-docs
 
 url: https://jsera001.github.io
 aux_links:
-  Template Repository: https://github.com/jsera001/jsera001.github.io
+  Git Repository: https://github.com/jsera001/
 
 default:
   - jekyll-default-layout
