@@ -7,7 +7,7 @@ permalink: /_education/
 ---
 
 <div style="text-align:right;"><br>
-<img src="/assets/images/KAIST_emblem1.gif" alt="KAIST" width="150"><br>        
+<img src="/assets/images/KAIST_emblem1.png" alt="KAIST" width="150"><br>        
 <span style="font-size:22px; font-weight:bold;">Korea Advanced Institute of Science and Technology<span><br>
 <span style="font-size:18px">M.S. Student in Division of Future Vehicle<span><br>
 <span>Advisor: Namwoo Kang<span><br>
