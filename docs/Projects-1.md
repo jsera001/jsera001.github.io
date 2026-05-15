@@ -3,6 +3,8 @@ title: Projects-Samples
 layout: default
 parent: Projects
 nav_order: 3
+nav_exclude: true
+search_exclude: true
 ---
 
 <div style="text-align:right;"><br>
