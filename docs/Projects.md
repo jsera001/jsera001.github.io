@@ -7,14 +7,14 @@ has_toc: false
 
 <div style="text-align:right;"><br>
 <img src="/assets/images/KHNP_emblem.png" alt="KHNP" width="150"><br>
-<span style="font-size:22px; font-weight:bold;">Generative AI-based large-scale nuclear power plant concept design platform</span><br>
+<span style="font-size:22px; font-weight:bold;">Generative AI-based Large-scale Nuclear Powerplant Concept Design Platform</span><br>
 <span style="font-size:18px">Korea Hydro &amp; Nuclear Power Co., Ltd. (KHNP)</span><br>
 <span style="font-size:12px;">Apr. 2025 - </span><br>
 <br>
 <br>
 
 <img src="/assets/images/NRF_down_sym.png" alt="NRF" width="150"><br>
-<span style="font-size:22px; font-weight:bold;">Industry-Academia Co-op Program for Undergraduate Student-Led Research (X-Coprs)</span><br>
+<span style="font-size:22px; font-weight:bold;">Industry-Academia Co-op Program for Undergraduate Student-Led Research (X-Corps)</span><br>
 <span style="font-size:18px">National Research Foundation of Korea</span><br>
 <span>Advisor: <a href="https://parklab.cau.ac.kr">Prof. Joongyull Park</a></span><br>
 <span style="font-size:12px;">Mar. 2022 - Dec. 2023</span><br>
