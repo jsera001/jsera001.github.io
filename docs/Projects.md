@@ -14,7 +14,7 @@ has_toc: false
 <br>
 
 <img src="/assets/images/NRF_down_sym.png" alt="NRF" width="150"><br>
-<span style="font-size:22px; font-weight:bold;">Industry-Academia Co-op Program for Undergraduate Student-Led Research (X-Corps)</span><br>
+<span style="font-size:22px; font-weight:bold;">Industry-Academia Co-op Program for Student-Led Research (X-Corps)</span><br>
 <span style="font-size:18px">National Research Foundation of Korea</span><br>
 <span>Advisor: <a href="https://parklab.cau.ac.kr">Prof. Joongyull Park</a></span><br>
 <span style="font-size:12px;">Mar. 2022 - Dec. 2023</span><br>
