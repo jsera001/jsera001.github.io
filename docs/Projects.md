@@ -18,5 +18,5 @@ has_toc: false
 <span style="font-size:18px">National Research Foundation of Korea</span><br>
 <span>Advisor: <a href="https://parklab.cau.ac.kr">Prof. Joongyull Park</a></span><br>
 <span style="font-size:12px;">Mar. 2022 - Dec. 2023</span><br>
-<span style="font-size:14px;"><i>Research Outcome:</i> Patent 10-2024-0035418, "블레이드리스 에어 모빌리티(Bladeless Air Mobility)"</span><br>
+<span style="font-size:14px;"><i>Research Outcome:</i> Patent 10-2024-0035418, "Bladeless Air Mobility"</span><br>
 </div>
