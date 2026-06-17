@@ -9,7 +9,7 @@ has_toc: false
 <img src="/assets/images/KHNP_emblem.png" alt="KHNP" width="150"><br>
 <span style="font-size:22px; font-weight:bold;">Generative AI-based Large-scale Nuclear Powerplant<br>Concept Design Platform</span><br>
 <span style="font-size:18px">Korea Hydro &amp; Nuclear Power Co., Ltd. (KHNP)</span><br>
-<span style="font-size:12px;">Apr. 2025 - </span><br>
+<span style="font-size:12px;">Apr. 2026 - </span><br>
 <br>
 <br>
 

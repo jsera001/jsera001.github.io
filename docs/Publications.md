@@ -3,6 +3,10 @@ title: Publications
 layout: default
 nav_order: 4
 ---
+<span style="font-size:22px; font-weight:bold;">International Journal Papers (Under Review)</span>
+
+[1] Yoo, S.\*, Jeong, L.\*, **Ra, J.**, Lee, D., Yang, S., Jeong, H., Kang, N. (2026) "DeepJEB++: Foundation Model-Driven Large-Scale 3D Engineering Dataset via 2D Latent Space Augmentation" <a href="https://arxiv.org/html/2606.12994v2">(arxiv)</a><
+
 <span style="font-size:22px; font-weight:bold;">KOREAN CONFERENCE</span>
 
 [3] **Ra, J.**\*, Yang, S., Kang, N. (2026) "Explainable Framework for Aircraft Conceptual Design using a Knowledge Graph-Guided Large Language Model", 대한기계학회 CAE 및 응용역학부문 2026년도 춘계학술대회
