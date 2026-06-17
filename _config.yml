@@ -3,8 +3,8 @@ description: JSERA Introduction Page
 theme: just-the-docs
 
 url: https://jsera001.github.io
-aux_links:
-  Git Repository: https://github.com/jsera001/
+# aux_links:
+#   Git Repository: https://github.com/jsera001/
 
 default:
   - jekyll-default-layout

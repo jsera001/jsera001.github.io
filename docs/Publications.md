@@ -3,9 +3,11 @@ title: Publications
 layout: default
 nav_order: 4
 ---
-<span style="font-size:22px; font-weight:bold;">International Journal Papers (Under Review)</span>
+<span style="font-size:22px; font-weight:bold;">INTERNATIONAL JOURNAL PAPER (UNDER REVIEW)</span>
 
-[1] Yoo, S.\*, Jeong, L.\*, **Ra, J.**, Lee, D., Yang, S., Jeong, H., Kang, N. (2026) "DeepJEB++: Foundation Model-Driven Large-Scale 3D Engineering Dataset via 2D Latent Space Augmentation" <a href="https://arxiv.org/html/2606.12994v2">(arxiv)</a><
+[1] Yoo, S.\*, Jeong, L.\*, **Ra, J.**, Lee, D., Yang, S., Jeong, H., Kang, N. (2026) "DeepJEB++: Foundation Model-Driven Large-Scale 3D Engineering Dataset via 2D Latent Space Augmentation" <a href="https://arxiv.org/html/2606.12994v2">(arxiv)</a>
+
+
 
 <span style="font-size:22px; font-weight:bold;">KOREAN CONFERENCE</span>
 
