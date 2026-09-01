@@ -7,7 +7,7 @@ has_toc: false
 <div style="text-align:right;"><br>
 
 <img src="/assets/images/NRF_down_sym.png" alt="NRF" width="150"><br>
-<span style="font-size:22px; font-weight:bold;">NRF Master Research Scholarship<br>
+<span style="font-size:22px; font-weight:bold;">NRF Master's Student Research Fellowship<br>
 <span style="font-size:18px">National Research Foundation of Korea</span><br>
 <span>Principal Investigator</span><br>
 <span style="font-size:12px;">SEP. 2026 - AUG. 2027</span><br>
