@@ -9,7 +9,7 @@ has_toc: false
 <img src="/assets/images/NRF_down_sym.png" alt="NRF" width="150"><br>
 <span style="font-size:22px; font-weight:bold;">NRF Master Research Scholarship<br>
 <span style="font-size:18px">National Research Foundation of Korea</span><br>
-<span>Principal Investigator
+<span>Principal Investigator</span><br>
 <span style="font-size:12px;">SEP. 2026 - AUG. 2027</span><br>
 <span style="font-size:14px;"><i>Research Topic:</i> Knowledge Graph Design Featuring Integrated 3D Geometry and Hierarchical Knowledge for LLM CAD Generation End-to-End Framework</span><br>
 
@@ -30,5 +30,3 @@ has_toc: false
 <span>Advisor: <a href="https://parklab.cau.ac.kr">Prof. Joongyull Park</a></span><br>
 <span style="font-size:12px;">Mar. 2022 - Dec. 2023</span><br>
 <span style="font-size:14px;"><i>Research Outcomes:</i> Patent 10-2024-0035418, "Bladeless Air Mobility"</span><br>
-
-</div>
