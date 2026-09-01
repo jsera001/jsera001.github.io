@@ -4,6 +4,7 @@ layout: default
 nav_order: 3
 has_toc: false
 ---
+<div style="text-align:right;"><br>
 
 <img src="/assets/images/NRF_down_sym.png" alt="NRF" width="150"><br>
 <span style="font-size:22px; font-weight:bold;">NRF Master Research Scholarship<br>
@@ -11,9 +12,9 @@ has_toc: false
 <span>Principal Investigator
 <span style="font-size:12px;">SEP. 2026 - AUG. 2027</span><br>
 <span style="font-size:14px;"><i>Research Topic:</i> Knowledge Graph Design Featuring Integrated 3D Geometry and Hierarchical Knowledge for LLM CAD Generation End-to-End Framework</span><br>
-</div>
 
-<div style="text-align:right;"><br>
+
+
 <img src="/assets/images/KHNP_emblem.png" alt="KHNP" width="150"><br>
 <span style="font-size:22px; font-weight:bold;">Generative AI-based Large-scale Nuclear Powerplant<br>Concept Design Platform</span><br>
 <span style="font-size:18px">Korea Hydro &amp; Nuclear Power Co., Ltd. (KHNP)</span><br>
