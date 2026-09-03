@@ -17,7 +17,7 @@ has_toc: false
 <br>
 
 <img src="/assets/images/CAU_emblem.png" alt="CAU" width="150"><br>
-<span style="font-size:22px; font-weight:bold;">Excellent Award, Capstone Design Competitiont</span><br>
+<span style="font-size:22px; font-weight:bold;">Excellent Award,<br> Capstone Design Competitiont</span><br>
 <span style="font-size:18px">Innovation Center for Engineering Education, CAU</span><br>
 <span style="font-size:12px;">OCT. 2023 </span><br>
 
@@ -25,7 +25,7 @@ has_toc: false
 <br>
 
 <img src="/assets/images/CAU_emblem.png" alt="CAU" width="150"><br>
-<span style="font-size:22px; font-weight:bold;">Excellent Award(with Cash Prize), Active Learning Community Program</span><br>
+<span style="font-size:22px; font-weight:bold;">Excellent Award(with Cash Prize),<br> Active Learning Community Program</span><br>
 <span style="font-size:18px">Center for Teaching & Learning, CAU</span><br>
 <span style="font-size:12px;">DEC. 2022</span><br>
 

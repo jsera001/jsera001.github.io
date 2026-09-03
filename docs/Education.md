@@ -20,5 +20,5 @@ permalink: /_education/
 <span style="font-size:22px; font-weight:bold;"> Chung-Ang University <span><br>
 <span style="font-size:18px">B.S. in Mechanical Engineering<span><br>
 <span style="font-size:12px;">MAR. 2019 - AUG. 2025<span><br>
-<span style="font-size:10px;">Military Service, Republic of Korea Army (ROKA) : SEP. 2020 - MAR. 2022<span><br>
+<span style="font-size:10px;">Military Service, Republic of Korea Army (ROKA): SEP. 2020 - MAR. 2022<span><br>
 <div>
