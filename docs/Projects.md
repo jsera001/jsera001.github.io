@@ -19,7 +19,7 @@ has_toc: false
 <img src="/assets/images/KHNP_emblem.png" alt="KHNP" width="150"><br>
 <span style="font-size:22px; font-weight:bold;">Generative AI-based Large-scale Nuclear Powerplant<br>Concept Design Platform</span><br>
 <span style="font-size:18px">Korea Hydro &amp; Nuclear Power Co., Ltd. (KHNP)</span><br>
-<span style="font-size:12px;">Apr. 2026 - </span><br>
+<span style="font-size:12px;">APR. 2026 - </span><br>
 
 <br>
 <br>
@@ -28,5 +28,5 @@ has_toc: false
 <span style="font-size:22px; font-weight:bold;">Industry-Academia Co-op Program for Student-Led Research<br>(X-Corps)</span><br>
 <span style="font-size:18px">National Research Foundation of Korea</span><br>
 <span style="font-size:14px;">Advisor: <a href="https://parklab.cau.ac.kr">Prof. Joongyull Park</a></span><br>
-<span style="font-size:12px;">Mar. 2022 - Dec. 2023</span><br>
+<span style="font-size:12px;">MAR. 2022 - DEC. 2023</span><br>
 <span style="font-size:14px;"><i>Research Outcomes:</i> Patent 10-2024-0035418, "Bladeless Air Mobility"</span><br>
