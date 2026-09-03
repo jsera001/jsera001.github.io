@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: Awards and Honors
 layout: default
 nav_order: 3
 has_toc: false
