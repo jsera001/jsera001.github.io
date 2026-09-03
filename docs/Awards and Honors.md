@@ -1,7 +1,7 @@
 ---
 title: Awards and Honors
 layout: default
-nav_order: 3
+nav_order: 5
 has_toc: false
 ---
 <div style="text-align:right;"><br>
@@ -34,6 +34,6 @@ has_toc: false
 <br>
 
 <img src="/assets/images/ecole42-white.png" alt="Ecole 42" width="150"><br>
-<span style="font-size:22px; font-weight:bold;">Ecole 42 Cadet Admission (Offered)</span><br>
+<span style="font-size:22px; font-weight:bold;">Ecole 42 Full-Tuition Scholarship & Cadet Admission (Offered)</span><br>
 <span style="font-size:18px">42 Network</span><br>
 <span style="font-size:12px;">FEB. 2020 </span><br>
